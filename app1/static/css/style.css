@@ -1,0 +1,25 @@
+h4{
+    border: 5px solid black;
+    width: 250px;
+    padding: 30px;
+}
+
+
+p{
+    border: 5px solid black;
+    width: 370px;
+    font-size: 30px;
+    padding: 30px;
+   
+}
+
+
+.cont{
+    
+             display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        
+    
+}
